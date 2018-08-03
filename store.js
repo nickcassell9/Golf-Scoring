@@ -1,7 +1,7 @@
 module.exports = {
 
     createUser
-    
+
 }
 
 function createUser(username, password, callback){
